@@ -4,7 +4,8 @@ public class TestTwo {
 
 	public static void main(String[] args) {
 		// Syste
-		System.out.println("Hello");
+		System.out.println("hi");
+
 	}
 
 }
